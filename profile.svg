@@ -22,19 +22,19 @@
 
   <!-- ASCII Art: centered vertically -->
 <text x="86" y="85" fill="#c9d1d9" class="ascii" font-family="monospace" font-size="14">
-  <tspan x="86" dy="1.2em"><tspan class="hash">         ############        </tspan></tspan>
+  <tspan x="86" dy="1.2em"><tspan class="hash">         ###########         </tspan></tspan>
   <tspan x="86" dy="1.2em"><tspan class="hash">       ##############       </tspan></tspan>
+  <tspan x="86" dy="1.2em"><tspan class="hash">       ###  #########       </tspan></tspan>
   <tspan x="86" dy="1.2em"><tspan class="hash">       ##############       </tspan></tspan>
-  <tspan x="86" dy="1.2em"><tspan class="hash">       ##############       </tspan></tspan>
-  <tspan x="86" dy="1.2em"><tspan class="hash"> ####################</tspan><tspan class="equal">====== </tspan></tspan>
-  <tspan x="86" dy="1.2em"><tspan class="hash">#####################</tspan><tspan class="equal">=======</tspan></tspan>
-  <tspan x="86" dy="1.2em"><tspan class="hash">#####################</tspan><tspan class="equal">=======</tspan></tspan>
-  <tspan x="86" dy="1.2em"><tspan class="hash">###################</tspan><tspan class="equal">========= </tspan></tspan>
-  <tspan x="86" dy="1.2em"><tspan class="hash">#######</tspan><tspan class="equal">=====================</tspan></tspan>
-  <tspan x="86" dy="1.2em"><tspan class="hash">#######</tspan><tspan class="equal">=====================</tspan></tspan>
-  <tspan x="86" dy="1.2em"> <tspan class="hash">######</tspan><tspan class="equal">==================== </tspan></tspan>
+  <tspan x="86" dy="1.2em"><tspan class="hash"> ####################</tspan><tspan class="equal"> ===== </tspan></tspan>
+  <tspan x="86" dy="1.2em"><tspan class="hash">#####################</tspan><tspan class="equal"> ======</tspan></tspan>
+  <tspan x="86" dy="1.2em"><tspan class="hash">#####################</tspan><tspan class="equal"> ======</tspan></tspan>
+
+  <tspan x="86" dy="1.2em"><tspan class="hash">#######</tspan><tspan class="equal"> ====================</tspan></tspan>
+  <tspan x="86" dy="1.2em"><tspan class="hash">###### </tspan><tspan class="equal">=====================</tspan></tspan>
+  <tspan x="86" dy="1.2em"> <tspan class="hash">##### </tspan><tspan class="equal">==================== </tspan></tspan>
   <tspan x="86" dy="1.2em">       <tspan class="equal">==============       </tspan></tspan>
-  <tspan x="86" dy="1.2em">       <tspan class="equal">==============       </tspan></tspan>
+  <tspan x="86" dy="1.2em">       <tspan class="equal">=========  ===       </tspan></tspan>
   <tspan x="86" dy="1.2em">       <tspan class="equal">==============       </tspan></tspan>
   <tspan x="86" dy="1.2em">        <tspan class="equal">============         </tspan></tspan>
 </text>
