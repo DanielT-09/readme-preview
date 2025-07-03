@@ -1,139 +1,38 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback, Consolas, monospace" width="900px" height="420px" font-size="14px">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420">
   <style>
-    @font-face {
-      src: local('Consolas'), local('Consolas Bold');
-      font-family: 'ConsolasFallback';
-      font-display: swap;
-      -webkit-size-adjust: 109%;
-      size-adjust: 109%;
-    }
-    .char-default { fill: #c9d1d9; }
-    .char-hash { fill: #4ea1ff; }      /* Blue for # */
-    .char-equal { fill: #f2cc60; }     /* Yellow for = */
-    text, tspan { white-space: pre; }
+    .bg { fill: #161b22; }
+    .text { font-family: monospace; font-size: 14px; white-space: pre; }
+    .gray { fill: #c9d1d9; }
+    .blue { fill: #4ea1ff; }
+    .yellow { fill: #f2cc60; }
   </style>
 
-  <rect width="900px" height="420px" fill="#161b22" rx="15"/>
+  <rect width="100%" height="100%" class="bg" rx="15"/>
 
-  <text x="50" y="40" font-family="monospace" font-size="14">
-    <!-- Line 1 -->
-    <tspan x="50" dy="1.2em">
-      <tspan class="char-default">           </tspan>
-      <tspan class="char-hash">##############</tspan>
-      <tspan class="char-default">            </tspan>
-    </tspan>
-    <!-- Line 2 -->
-    <tspan x="50" dy="1.2em">
-      <tspan class="char-default">         </tspan>
-      <tspan class="char-hash">#################</tspan>
-      <tspan class="char-default">          </tspan>
-    </tspan>
-    <!-- Line 3 -->
-    <tspan x="50" dy="1.2em">
-      <tspan class="char-default">        ###   </tspan>
-      <tspan class="char-hash">#############</tspan>
-      <tspan class="char-default">         </tspan>
-    </tspan>
-    <!-- Line 4 -->
-    <tspan x="50" dy="1.2em">
-      <tspan class="char-default">        </tspan>
-      <tspan class="char-hash">###################</tspan>
-      <tspan class="char-default">         </tspan>
-    </tspan>
-    <!-- Line 5 -->
-    <tspan x="50" dy="1.2em">
-      <tspan class="char-default">        </tspan>
-      <tspan class="char-hash">###################</tspan>
-      <tspan class="char-default">         </tspan>
-    </tspan>
-    <!-- Line 6 -->
-    <tspan x="50" dy="1.2em">
-      <tspan class="char-default">  </tspan>
-      <tspan class="char-hash">#########################</tspan>
-      <tspan class="char-equal">=======</tspan>
-      <tspan class="char-default">  </tspan>
-    </tspan>
-    <!-- Line 7 -->
-    <tspan x="50" dy="1.2em">
-      <tspan class="char-default"> </tspan>
-      <tspan class="char-hash">###########################</tspan>
-      <tspan class="char-equal">======== </tspan>
-    </tspan>
-    <!-- Line 8 -->
-    <tspan x="50" dy="1.2em">
-      <tspan class="char-hash">############################</tspan>
-      <tspan class="char-equal">=========</tspan>
-    </tspan>
-    <!-- Line 9 -->
-    <tspan x="50" dy="1.2em">
-      <tspan class="char-hash">###########################</tspan>
-      <tspan class="char-default"> </tspan>
-      <tspan class="char-equal">=========</tspan>
-    </tspan>
-    <!-- Line 10 -->
-    <tspan x="50" dy="1.2em">
-      <tspan class="char-hash">##########################</tspan>
-      <tspan class="char-default"> </tspan>
-      <tspan class="char-equal">==========</tspan>
-    </tspan>
-    <!-- Line 11 -->
-    <tspan x="50" dy="1.2em">
-      <tspan class="char-hash">##########</tspan>
-      <tspan class="char-default">  </tspan>
-      <tspan class="char-equal">=========================</tspan>
-    </tspan>
-    <!-- Line 12 -->
-    <tspan x="50" dy="1.2em">
-      <tspan class="char-hash">#########</tspan>
-      <tspan class="char-default"> </tspan>
-      <tspan class="char-equal">===========================</tspan>
-    </tspan>
-    <!-- Line 13 -->
-    <tspan x="50" dy="1.2em">
-      <tspan class="char-hash">#########</tspan>
-      <tspan class="char-equal">============================</tspan>
-    </tspan>
-    <!-- Line 14 -->
-    <tspan x="50" dy="1.2em">
-      <tspan class="char-default"> </tspan>
-      <tspan class="char-hash">########</tspan>
-      <tspan class="char-equal">=========================== </tspan>
-    </tspan>
-    <!-- Line 15 -->
-    <tspan x="50" dy="1.2em">
-      <tspan class="char-default">  </tspan>
-      <tspan class="char-hash">#######</tspan>
-      <tspan class="char-equal">=========================   </tspan>
-    </tspan>
-    <!-- Line 16 -->
-    <tspan x="50" dy="1.2em">
-      <tspan class="char-default">        </tspan>
-      <tspan class="char-equal">===================         </tspan>
-    </tspan>
-    <!-- Line 17 -->
-    <tspan x="50" dy="1.2em">
-      <tspan class="char-default">        </tspan>
-      <tspan class="char-equal">===================         </tspan>
-    </tspan>
-    <!-- Line 18 -->
-    <tspan x="50" dy="1.2em">
-      <tspan class="char-default">        </tspan>
-      <tspan class="char-equal">=============</tspan>
-      <tspan class="char-default">   </tspan>
-      <tspan class="char-equal">===          </tspan>
-    </tspan>
-    <!-- Line 19 -->
-    <tspan x="50" dy="1.2em">
-      <tspan class="char-default">         </tspan>
-      <tspan class="char-equal">=================           </tspan>
-    </tspan>
-    <!-- Line 20 -->
-    <tspan x="50" dy="1.2em">
-      <tspan class="char-default">           </tspan>
-      <tspan class="char-equal">=============            </tspan>
-    </tspan>
+  <text x="70" y="60" class="text">
+    <tspan class="gray">           </tspan><tspan class="blue">##############</tspan><tspan class="gray">            </tspan>
+    <tspan x="70" dy="1.2em" class="gray">         </tspan><tspan class="blue">#################</tspan><tspan class="gray">          </tspan>
+    <tspan x="70" dy="1.2em" class="gray">        ###   </tspan><tspan class="blue">#############</tspan><tspan class="gray">         </tspan>
+    <tspan x="70" dy="1.2em" class="blue">        ###################         </tspan>
+    <tspan x="70" dy="1.2em" class="blue">        ###################         </tspan>
+    <tspan x="70" dy="1.2em" class="blue">  #########################</tspan><tspan class="yellow">=======  </tspan>
+    <tspan x="70" dy="1.2em" class="blue"> ###########################</tspan><tspan class="yellow">======== </tspan>
+    <tspan x="70" dy="1.2em" class="blue">############################</tspan><tspan class="yellow">=========</tspan>
+    <tspan x="70" dy="1.2em" class="blue">########################### </tspan><tspan class="yellow">=========</tspan>
+    <tspan x="70" dy="1.2em" class="blue">########################## </tspan><tspan class="yellow">==========</tspan>
+    <tspan x="70" dy="1.2em" class="blue">##########  </tspan><tspan class="yellow">=========================</tspan>
+    <tspan x="70" dy="1.2em" class="blue">######### </tspan><tspan class="yellow">===========================</tspan>
+    <tspan x="70" dy="1.2em" class="blue">#########</tspan><tspan class="yellow">============================</tspan>
+    <tspan x="70" dy="1.2em" class="gray"> </tspan><tspan class="blue">########</tspan><tspan class="yellow">=========================== </tspan>
+    <tspan x="70" dy="1.2em" class="gray">  </tspan><tspan class="blue">#######</tspan><tspan class="yellow">=========================   </tspan>
+    <tspan x="70" dy="1.2em" class="gray">         </tspan><tspan class="yellow">===================         </tspan>
+    <tspan x="70" dy="1.2em" class="gray">         </tspan><tspan class="yellow">===================         </tspan>
+    <tspan x="70" dy="1.2em" class="gray">         </tspan><tspan class="yellow">=============</tspan><tspan class="gray">   </tspan><tspan class="yellow">===         </tspan>
+    <tspan x="70" dy="1.2em" class="gray">          </tspan><tspan class="yellow">=================           </tspan>
+    <tspan x="70" dy="1.2em" class="gray">            </tspan><tspan class="yellow">=============            </tspan>
   </text>
+
 
   <!-- Additional info text on right side -->
   <text x="390" y="30" fill="#c9d1d9">
