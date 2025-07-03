@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="900px" height="420px" font-size="14px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback, Consolas, monospace" width="900px" height="420px" font-size="14px">
   <style>
     @font-face {
       src: local('Consolas'), local('Consolas Bold');
@@ -19,28 +19,28 @@
   <rect width="900px" height="420px" fill="#161b22" rx="15"/>
 
   <text x="30" y="20" fill="#c9d1d9" class="ascii" font-family="monospace" font-size="14">
-    <tspan x="30" dy="1.2em">            ###############               </tspan>
-    <tspan x="30" dy="1.2em">         ####################           </tspan>
-    <tspan x="30" dy="1.2em">        ####  ################          </tspan>
-    <tspan x="30" dy="1.2em">        ######################          </tspan>
-    <tspan x="30" dy="1.2em">        ######################          </tspan>
-    <tspan x="30" dy="1.2em">         #####################          </tspan>
+    <tspan x="30" dy="1.2em">             ###############              </tspan>
+    <tspan x="30" dy="1.2em">          ####################           </tspan>
+    <tspan x="30" dy="1.2em">         ####  ################          </tspan>
+    <tspan x="30" dy="1.2em">         ######################          </tspan>
+    <tspan x="30" dy="1.2em">         ######################          </tspan>
+    <tspan x="30" dy="1.2em">          #####################          </tspan>
     <tspan x="30" dy="1.2em">  #############################========  </tspan>
     <tspan x="30" dy="1.2em"> ###############################========= </tspan>
-    <tspan x="30" dy="1.2em"> ###############################==========</tspan>
-    <tspan x="30" dy="1.2em"> ############################### ==========</tspan>
-    <tspan x="30" dy="1.2em"> ############################## ===========</tspan>
-    <tspan x="30" dy="1.2em"> ##############              ==============</tspan>
-    <tspan x="30" dy="1.2em"> ########### ==============================</tspan>
-    <tspan x="30" dy="1.2em"> ########## ===============================</tspan>
-    <tspan x="30" dy="1.2em"> ##########================================</tspan>
-    <tspan x="30" dy="1.2em">  #########=============================== </tspan>
-    <tspan x="30" dy="1.2em">   ########==============================  </tspan>
-    <tspan x="30" dy="1.2em">         =====================           </tspan>
-    <tspan x="30" dy="1.2em">         ======================          </tspan>
-    <tspan x="30" dy="1.2em">         ======================          </tspan>
-    <tspan x="30" dy="1.2em">         ================  ====          </tspan>
-    <tspan x="30" dy="1.2em">          ====================           </tspan>
+    <tspan x="30" dy="1.2em">################################==========</tspan>
+    <tspan x="30" dy="1.2em">############################### ==========</tspan>
+    <tspan x="30" dy="1.2em">############################## ===========</tspan>
+    <tspan x="30" dy="1.2em">##############              ==============</tspan>
+    <tspan x="30" dy="1.2em">########### ==============================</tspan>
+    <tspan x="30" dy="1.2em">########## ===============================</tspan>
+    <tspan x="30" dy="1.2em">##########================================</tspan>
+    <tspan x="30" dy="1.2em"> #########=============================== </tspan>
+    <tspan x="30" dy="1.2em">  ########==============================  </tspan>
+    <tspan x="30" dy="1.2em">         =====================            </tspan>
+    <tspan x="30" dy="1.2em">         ======================           </tspan>
+    <tspan x="30" dy="1.2em">         ======================           </tspan>
+    <tspan x="30" dy="1.2em">         ================  ====           </tspan>
+    <tspan x="30" dy="1.2em">          ====================            </tspan>
     <tspan x="30" dy="1.2em">             ==============+              </tspan>
   </text>
 
