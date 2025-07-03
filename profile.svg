@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="800px" height="380px" font-size="14px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="900px" height="420px" font-size="14px">
 <style>
 @font-face {
   src: local('Consolas'), local('Consolas Bold');
@@ -15,7 +15,7 @@
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="800px" height="380px" fill="#161b22" rx="15"/>
+<rect width="900px" height="420px" fill="#161b22" rx="15"/>
 <text x="15" y="25" fill="#c9d1d9" class="ascii">
 <tspan x="15" dy="1.2em">             @@@@@@@@@            </tspan>
 <tspan x="15" dy="1.2em">           @@@@@@@%#@@           </tspan>
@@ -39,6 +39,8 @@ text, tspan {white-space: pre;}
 <tspan x="15" dy="1.2em">*++====---=+%@@@@@@@@@*====+**   </tspan>
 <tspan x="15" dy="1.2em">    ****++*##        %##**##      </tspan>
 </text>
+</svg>
+
 
 <text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">andrew@grant</tspan> -———————————————————————————————————————————-—-
